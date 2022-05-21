@@ -47,6 +47,7 @@ These are my own notes for this process
   numpy
   matplotlib
 * runtime.txt
+  python=3.9
 
 #### Step 8 - Clone the github repo to local
 can use either github desktop or gitbash... but i prefer github desktop
