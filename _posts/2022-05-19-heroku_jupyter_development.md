@@ -38,4 +38,31 @@ These are my own notes for this process
 * rename the main branch to master
 
 #### Step 7 - Add files to github
+* Procfile
+  web: voila --port=$PORT --Voila.ip=0.0.0.0 --no-browser --enable_nbextensions=True app.ipynb
+* app.ipynb
+* requirements.txt
+  voila
+  jupyter
+  numpy
+  matplotlib
+* runtime.txt
+
+#### Step 8 - Clone the github repo to local
+can use either github desktop or gitbash... but i prefer github desktop
+
+#### Step 9 - Build it on heroku
+* use the anaconda prompt
+* cd into the cloned github directory (parent folder)
+* heroku login -i
+* enter username and password
+* heroku create
+* take note of the app name... because we are going to rename it
+* heroku apps:rename heroku-test-la --app shielded-falls-06619
+* heroku git:remote -a heroku-test-la
+* git push heroku master
+
+#### Step 10 - verify it on heroku
+can go straight to the url in a browser:
+https://heroku-test-la.herokuapp.com
 
