@@ -17,6 +17,7 @@ set up the total distance... sum of of the min distances<br>
 * subject to the constraints that the centers are <= 1
 * make unconstrained variables non negative
 * use the evolutionary algorithm
-* play around with the options...<br>
+* play around with the options
+
 insights:<br>
 * conditional format the cluster centers... see where the splits are
