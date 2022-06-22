@@ -19,5 +19,5 @@ set up the total distance... sum of of the min distances<br>
 * use the evolutionary algorithm
 * play around with the options
 
-insights:<br>
+<i>insights</i>:<br>
 * conditional format the cluster centers... see where the splits are
