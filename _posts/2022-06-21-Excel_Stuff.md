@@ -11,7 +11,7 @@ set up the distance calcs... {sqrt(sum(((variables - centers)^2))}<br>
 calc the min distance per customer<br>
 find the cluster<br>
 set up the total distance... sum of of the min distances<br>
-<i>solver</i>:<br>
+<i>solver</i>:
 * set total distance to min
 * by changing the cluster centers
 * subject to the constraints that the centers are <= 1
