@@ -11,4 +11,17 @@ choose contact... specify the values<br>
 save and test the recipe<br>
 validate this in salesforce<br>
 
+#### new updated opportunity to create a case<br>
+create a new project<br>
+create a new recipe<br>
+trigger from an app<br>
+salesforce - new updated record opportunity<br>
+create a new connection to salesforce<br>
+trigger condition - stage = Closed Won<br>
+search contact in salesforce ... hard code the email value<br>
+create case... set fields<br>
+create a new opportunity in salesforce<br>
+save and test the recipe<br>
+check cases<br>
+
 
