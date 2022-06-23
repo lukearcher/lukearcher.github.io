@@ -21,3 +21,14 @@ set up the total distance... sum of of the min distances<br>
 
 <i>insights</i>:<br>
 * conditional format the cluster centers... see where the splits are
+
+<i>silhouette scores</i>:<br>
+create the distance matrix<br>
+calculate the distance of each person from all people in the other clusters<br>
+calculate the closest distance<br>
+calculate the second closest distance<br>
+calculate the distance to the assigned cluster<br>
+calculate the distance to the neighboring cluster<br>
+calculate the silhouette value... neighbouring - assigned / max of these <br>
+get the silhouette score<br>
+
