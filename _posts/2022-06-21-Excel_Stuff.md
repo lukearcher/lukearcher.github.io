@@ -32,3 +32,6 @@ calculate the distance to the neighboring cluster<br>
 calculate the silhouette value... neighbouring - assigned / max of these <br>
 get the silhouette score<br>
 
+<i>spherical k-means (k medians with cosine distance) - best used for binary problems</i>:<br>
+calculate the cosine difference: iferror(1 - sumproduct(variables - cluster centers)/(sqrt(sum(variables)) * sqrt(sum(cluster centers))),1)<br>
+solve - this time change the <= 1 constraint to be binary
