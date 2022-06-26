@@ -1,4 +1,4 @@
-# Excel Stuff
+# Clustering
 
 SMALL and LARGE formulas<br>
 TRANSPOSE formula<br>
