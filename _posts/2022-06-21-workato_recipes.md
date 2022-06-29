@@ -24,4 +24,6 @@ create a new opportunity in salesforce<br>
 save and test the recipe<br>
 check cases<br>
 
+#### customize the job report<br>
+jobs... add additional fields... repeat jobs to update<br>
 
