@@ -1,5 +1,6 @@
 # Daily Practice Routine
 
+* warm up
 * rhythm
 * lead
 * improv
