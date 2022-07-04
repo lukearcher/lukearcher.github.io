@@ -27,3 +27,8 @@ check cases<br>
 #### customize the job report<br>
 jobs... add additional fields... repeat jobs to update<br>
 
+#### conditional actions<br>
+log in to atlassian<br>
+switch to jira software<br>
+create a project... kanban... use template... company managed... give it a name... note the key... <br>
+
