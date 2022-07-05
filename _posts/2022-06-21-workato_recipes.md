@@ -31,4 +31,15 @@ jobs... add additional fields... repeat jobs to update<br>
 log in to atlassian<br>
 switch to jira software<br>
 create a project... kanban... use template... company managed... give it a name... note the key... <br>
+create a new project in workato<br>
+create a connection in workato... atlassian account settings... security... create and manage api tokens<br>
+new recipe... trigger from an app<br>
+create a connection to salesforce... new/updated record (case)<br>
+action in an app... jira... choose connection... show optional fields<br>
+labels = case number<br>
+if condition... list size = 0<br>
+yes - create task in jira... issue... configure fields<br>
+save changes<br>
+if condition... list size = 1<br>
+
 
