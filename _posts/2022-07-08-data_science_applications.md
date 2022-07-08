@@ -8,3 +8,6 @@
 * Optimization
 * Graph Analysis
 * Regression
+* Ensemble Models
+* Forecasting
+* Outlier Detection
