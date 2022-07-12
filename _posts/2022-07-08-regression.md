@@ -6,5 +6,9 @@ solver - minimize the sum of squared errors - non linear algorithm... set upper 
 
 <ins>median regression - minimize the sum of the absolute value of the errors... better for outliers</ins></br>
 
+total sum of squares - DEVSQ<br>
+r squared<br>
+
+
 
 
