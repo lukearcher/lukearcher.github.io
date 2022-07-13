@@ -24,7 +24,7 @@ set up the total distance... sum of of the min distances<br>
 
 <i>silhouette scores</i>:<br>
 create the distance matrix<br>
-calculate the distance of each person from all people in the other clusters<br>
+calculate the average distance of each person from all people in the other clusters<br>
 calculate the closest distance<br>
 calculate the second closest distance<br>
 calculate the distance to the assigned cluster<br>
