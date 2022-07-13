@@ -7,7 +7,7 @@ TRANSPOSE formula<br>
 convert variables to numeric<br>
 standardize them... subtract mean and divide by standard deviation<br>
 set up the cluster centers... at the bottom of the variables... one row per customer<br>
-set up the distance calcs... {sqrt(sum(((variables - centers)^2))}<br>
+set up the distance calcs... {sqrt(sum((variables - centers)^2))}<br>
 calc the min distance per customer<br>
 find the cluster<br>
 set up the total distance... sum of of the min distances<br>
